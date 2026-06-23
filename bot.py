@@ -3,8 +3,7 @@ from aiogram import Bot, Dispatcher
 from aiogram.types import Message
 from aiogram.filters import Command
 
-TOKEN = Your token was replaced with a new one. You can use this token to access HTTP API:
-8910960847:AAFCo7Br7cbgpmK77mRAONcUNDpXZczvb2c
+TOKEN = "8910960847:AAFCo7Br7cbgpmK77mRAONcUNDpXZczvb2c"
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
